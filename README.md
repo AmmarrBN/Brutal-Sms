@@ -10,8 +10,8 @@ Perfect Tools spam 24 jam non stop
   pkg install git
   pkg install python
   git clone https://github.com/AmmarrBN/Brutal-Sms
-  bash install.sh
   cd Brutal-Sms
+  bash install.sh
   python run.py
   ```
   </details>
