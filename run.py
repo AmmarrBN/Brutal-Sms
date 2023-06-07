@@ -71,10 +71,10 @@ def tanya():
     a = input(f"{W}[{Y}?{W}] Back Tools? ({Y}y{W}/{Y}t{W}){R} :{G} ")
     if a == "y" or a == "Y":
         start()
-    if a == "t" or a == "T":
+    elif a == "t" or a == "T":
         print (f"{W}[{R}!{W}] Berhasil Keluar Dari Tools {R}!!!{W}")
         sys.exit()
-    if a == "" or a == " ":
+    elif a == "" or a == " ":
         print (f"{W}[{R}!{W}] Masukkan Pilihan Dengan Benar {R}!!!{W}")
         sys.exit
 
@@ -152,14 +152,14 @@ def start(): # Def Untuk Start Tools
     pil=input(f"        Input Number : ")
     if pil == "1":
         jam()
-    if pil == "2":
+    elif pil == "2":
         normal()
         tanya()
-    if pil == "3":
+    elif pil == "3":
         os.system("xdg-open https://www.instagram.com/ammarexecuted")
         print (f"{Y}${W} Terima Kasih Telah Menyampaikan Eror,Creator Akan Segera Memperbaiki")
         tanya()
-    if pil == "4":
+    elif pil == "4":
         print (f"{W}[{R}!{W}] Exited With Program")
         sys.exit()
 
