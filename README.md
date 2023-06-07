@@ -51,6 +51,6 @@ Perfect Tools spam 24 jam non stop
 
 > SUBSCRIBE MY CHANNEL >_<
 
-[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Ammar%20Executed&color=green)](https://youtube.com/channel/UCFeZ5BGt8lbOZwIj2MNOlIQ)
-[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Ammar%20Executed&color=green)](https://youtube.com/channel/UCFeZ5BGt8lbOZwIj2MNOlIQ)
+[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Ammar%20Executed&color=green)](https://youtube.com/@AmmarExecuted)
+[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Ammar%20Executed&color=green)](https://youtube.com/@AmmarExecuted)
 
